@@ -1,0 +1,26 @@
+= Vision
+Doc Writer <William Elsner, Leon Mathes, Tim Grünert>
+
+== Diskussion: Wieso ist es wichtig am Anfang diese zu definieren?
+
+- synchronisierte Zielvorstellungen für effizientes Arbeiten
+- Vermeiden von Misverständnissen
+- Grundvorraussetzung für Planung d.h. Budget, Personal, Ressourcen etc.
+- um seiner Handlung eine Richtung zu geben 
+
+
+== Was ist Ziel bzw. Vision des zu entwickelnden Systems? 
+
+- Online-Shop für Cocktailversand für Privatkunden
+- Individualiserung eigener Cocktails & Standardcocktails 
+- größere Reichweite auf dem Markt
+- Abbildung des kompletten, aber unkomplizierter Bestellprozesses unter hoher Kundenfreundlichkeit
+- Vermeidung von Pop-Ups und mehr als 5 Klicks bis Bestellung
+- Kundenkonto für Werbezwecke (Email)
+- Anzeige eines Warenkorbs
+- unterschiedliche Bezahlungsmethoden
+- Stornierung innerhalb von 24h
+- keine Mindest- & Höchstbestellmenge
+- Umlegung der Versandkosten
+- Sperrfunktion für Nichtzahlung
+- Rabattmöglichkeit

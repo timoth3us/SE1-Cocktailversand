@@ -1,0 +1,19 @@
+= Glossary
+Doc Writer <William Elsner, Leon Mathes, Tim Grünert>
+
+* _Kunde_: Bezeichnet in diesem Kontext die Käufer der Cocktails. Synonyme sind Nutzer, Benutzer.
+
+* _Barbetreiber_: Bezeichnet den Geschäftsführer der Bar, der die Anforderungen stellt und bestimmt, ob das System als abgenommen gilt.
+
+* _Online-Shop_: Bezeichnet die Internet-Plattform (E-Commerce), über welche die Cocktails angeboten werden sollen.
+Synonyme: Webshop, Webpräsenz.
+
+* _Pop-Ups_: bezeichnen Einblendungen auf Website mit zusätzliche Inhalten oder fragen eine bestimmte Interaktion ab. Synonyme: Werbeeinblendungen. Sollen hier vermieden werden.
+
+* _Warenkorb_: bezeichnet eine repräsentative rechnerische Zusammenstellung verschiedener Güter und Dienstleistungen. Soll den Kunden ersichtlich sein.
+
+* _Bestellbestätigung_: enthält alle relevanten Vertragsdaten und wird oft als Zeichen der Auftragsbestätigung automatisiert verschickt. Synonyme: Auftragsbestätigung.
+
+* _Rabatt_: bezeichnet einen Preisnachlass, der unter bestimmten Bedingungen dem Käufer gewährt wird. Wird in diesem Fall Kunden, die häufig bestellen, gewährt.
+
+* _Kundenfreundlichkeit_: freundliche, zuvorkommende, wohlwollende, höfliche Verhalten gegenüber den Kunden. In diesem Fall übersichtliche Website, komfortable Bedienung mit max. 5 Klicks bis zum Bestellprozess.

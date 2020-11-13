@@ -1,0 +1,40 @@
+= Stakeholder
+Doc Writer <William Elsner, Leon Mathes, Tim Grünert>
+
+== Was sind mögliche Stakeholder und deren Interessen?
+
+[cols="2,2a"]
+|===
+|*Stakeholder*
+|*Interessen*
+
+|Mitarbeiter
+|* Arbeitsplatzsicherung
+* gute Arbeitsbedingungen (flexible Arbeitszeiten, faires Gehalt)
+* übersichtliche Datenverarbeitung (Datenbanken)
+
+|Investoren
+|* hohe Rentabilität
+* Verlässlichkeit
+* Kreditwürdigkeit
+
+|Geschäftsführer
+|* Umsatzsteigerung
+* zufriedene Kunden
+* zufriedene Mitarbeiter 
+* Ausbau der Marktreichweite / neue Marktsegmente erschließen
+
+
+|Kunde
+|* hohe Qualität
+* faire Preise
+* freundlicher & schneller Kundenservice 
+* kurze Lieferzeiten
+* Komfort beim Bestellen
+
+|Lieferant
+|* sichere Abnahme seiner Waren (kontinuierlich)
+* schnelle Bezahlung 
+
+
+|===
