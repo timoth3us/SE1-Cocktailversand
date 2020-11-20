@@ -1,0 +1,20 @@
+Use-Case-Name:Bestellungsmöglichkeiten
+Umfang: / 
+Ebene: / 
+Primärakteur: Datenbanksystem
+Stakeholder und Interessen:
+• Kunde 
+• Barchef
+
+Vorbedingungen: /
+Erfolgsgarantie, auch Nachbedingungen: /
+Standardablauf:
+1. Bereitstellung von Produktvielfalt
+2. Auswahl verschiedener Optionen 
+3. Getränk zusammenstellen / Standarddrink
+4. Kundenauswahl speichern 
+Erweiterungen (oder alternative Abläufe): /
+Spezielle Anforderungen: /
+Liste der Technik- und Datenvariationen: /
+Häufigkeit des Auftretens: immer 
+Verschiedenes: / 
