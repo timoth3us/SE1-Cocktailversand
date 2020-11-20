@@ -1,0 +1,22 @@
+Use-Case-Name: Bestellbestätigung erhalten und an den Kunden senden
+Umfang: /
+Ebene: /
+Primärakteur: Email-Portal
+Stakeholder und Interessen:
+• Buchhaltung 
+• Kunde 
+
+Vorbedingungen: aufgegebene Bestellung
+Erfolgsgarantie, auch Nachbedingungen: genügend Lagerbestand
+Standardablauf:
+1. Benachrichtigung von Buchhaltung erhalten
+2. E-Mail des Kunden in Kundendaten erfassen 
+3. Bestätigungsmail senden
+
+Erweiterungen (oder alternative Abläufe):
+3.2. Meldung über längere Lieferzeiten aufgrund zu geringer Lagerbestände als E-Mail senden
+
+Spezielle Anforderungen: qualifizierter Mitarbeiter 
+Liste der Technik- und Datenvariationen:  /
+Häufigkeit des Auftretens: bei jedere Bestellung
+Verschiedenes: /

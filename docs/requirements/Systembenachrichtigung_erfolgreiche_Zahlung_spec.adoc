@@ -1,0 +1,24 @@
+Use-Case-Name: System benachrichtigen, dass Zahlung eingegangen ist
+Umfang: /
+Ebene: /
+Primärakteur: Zahlungsportal
+Stakeholder und Interessen:
+• Mitarbeiter
+• Kunde
+
+Vorbedingungen: Bestellanfrage
+Erfolgsgarantie, auch Nachbedingungen: genügend hoher Kontostand
+Standardablauf:
+1. Zahlungsumme von Webshop erhalten
+2. Überprüfung der vorhandenen Summe
+3. Bestätigung senden
+4. Geld abbuchen
+
+Erweiterungen (oder alternative Abläufe):
+3.2 Bestllung Verweigern
+4.2 Meldung über fehlendes Guthaben ausgeben
+
+Spezielle Anforderungen: qualifizierter Mitarbeiter 
+Liste der Technik- und Datenvariationen:  /
+Häufigkeit des Auftretens: bei jedere Bestellung
+Verschiedenes: /
