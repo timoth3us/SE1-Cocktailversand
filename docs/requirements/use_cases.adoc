@@ -1,0 +1,51 @@
+= Akteure und use cases 
+
+== Akteure 
+ 
+ * Mitarbeiter
+ 
+ * Kunden
+
+ * Softwarefirma
+
+ * Datenbanksystem
+
+ * Server
+
+ * Zahlungsportale
+
+ * Emailportal
+ 
+== use cases - Details
+
+=== Mitarbeiter
+* Bestellung auslesen (1)
+* Kundenservice (3)
+
+=== Kunden
+* Kundenkonto anlegen (2) 
+
+* Bestellung tätigen (1)
+
+* evtl. stonieren (3)
+
+=== Softwarefirma 
+* Wartung/Udapten des Systems (2) 
+
+=== Datenbanksystem
+* Kundendetails als Kundenkonto erfassen (2)
+* Informationen zu Bestellmöglichkeiten bereitstellen (1)
+* Bestelldetails erfassen und speichern (1)
+
+=== Server 
+* stellt Basis für Website und Datenbanksystem dar (1) 
+
+=== Zahlungsportale  
+* System benachrichtigen, dass Zahlung eingegangen ist (1) 
+
+=== Emailportal 
+* Bestellbestätigung erhalten und an den Kunden senden (1)
+* über Werbeaktionen informieren (3)
+
+== use cases - Diagramm
+

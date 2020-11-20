@@ -1,0 +1,22 @@
+Use-Case-Name:Bestellung tätigen
+Umfang: / 
+Ebene: / 
+Primärakteur: Kunde
+Stakeholder und Interessen:
+• Zahlungsportale 
+• Rechnungswesen
+
+Vorbedingungen: /
+Erfolgsgarantie, auch Nachbedingungen: /
+Standardablauf:
+1. anmelden
+2. Standardbestellung oder Individualisierung 
+3. Auswahl in den Warenkorb legen
+4. Zahlungsmethode auswählen
+5. Zahlungsdetails angeben
+6. Bestellung abschließen 
+Erweiterungen (oder alternative Abläufe): /
+Spezielle Anforderungen: /
+Liste der Technik- und Datenvariationen: /
+Häufigkeit des Auftretens: immer 
+Verschiedenes: / 

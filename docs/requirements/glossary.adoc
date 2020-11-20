@@ -1,5 +1,4 @@
 = Glossary
-Doc Writer <William Elsner, Leon Mathes, Tim Grünert>
 
 * _Kunde_: Bezeichnet in diesem Kontext die Käufer der Cocktails. Synonyme sind Nutzer, Benutzer.
 

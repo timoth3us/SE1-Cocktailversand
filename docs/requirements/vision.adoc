@@ -1,5 +1,5 @@
 = Vision
-Doc Writer <William Elsner, Leon Mathes, Tim Grünert>
+
 
 == Diskussion: Wieso ist es wichtig am Anfang diese zu definieren?
 

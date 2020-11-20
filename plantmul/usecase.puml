@@ -1,0 +1,34 @@
+@startuml usecase-example 
+left to right direction 
+
+actor Mitarbeiter
+actor Kunden
+actor Softwarefirma
+actor Datenbanksystem
+actor Server
+actor Zahlungsportale
+actor Emailportal
+
+rectangle "Cocktailversand"{
+    (UC01/Kundenkonto anlegen) as (uc01)
+    (UC02/Bestellung tätigen) as (uc02)
+    (UC04/Stonierung) as (uc04)
+    (UC05/Kundendetails speichern) as (uc05)
+    (UC06/Bereitstellung und Verarbeitung von Bestellinformationen) as (uc06)
+    (UC07/physische Ressorucen bereitstellen) as (uc07)
+    (UC08/Bestellung auslesen) as (uc08)
+    (UC09/Hilfe bereitstellen) as (uc09)
+    (UC10/Zahlungsbestätigung melden) as (uc10)
+    (UC11/Bestellbestätigung erhalten) as (uc11)
+    (UC12/Bestellbestätigung senden) as (uc12)
+    (UC13/Werbeaktionen kundgeben) as (uc13)
+    (UC14/System warten/updaten) as (uc14)
+}
+
+Nutzer --> uc01
+Nutzer --> uc02
+uc02 .down. uc05 : include
+Nutzer --> uc03
+Nutzer --> uc04
+Service --> uc06
+@enduml 

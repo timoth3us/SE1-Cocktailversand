@@ -1,0 +1,20 @@
+Use-Case-Name: Bestellung auslesen
+Umfang: /
+Ebene: /
+Primärakteur: Mitarbeiter
+Stakeholder und Interessen:
+• Buchhaltung 
+• Logistik 
+
+Vorbedingungen: aufgegebene Bestellung
+Erfolgsgarantie, auch Nachbedingungen: 
+Standardablauf:
+1. Benachrichtigung erhalten
+2. Informationen auslesen 
+3. Bestellstatus in DB aktualisieren 
+
+Erweiterungen (oder alternative Abläufe): /
+Spezielle Anforderungen: qualifizierter Mitarbeiter 
+Liste der Technik- und Datenvariationen:  /
+Häufigkeit des Auftretens: bei jedere Bestellung
+Verschiedenes: /

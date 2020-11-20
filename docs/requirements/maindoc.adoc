@@ -1,0 +1,20 @@
+= Hauptdokument - Cocktailversand 
+Tim Grünert tim.gruenert@htw-dresden.de ; Leon Matthes s80532@htw-dresden.de ; William Elsner s80523@htw-dresden.de
+20.11.2020
+:toc:
+:toc-title: Inhaltsverzeichnis
+// Platzhalter für weitere Dokumenten-Attribute
+== Einführung
+Dieses Dokument dient im Praktikum rund um den Coktailversand als Dokumentation zur Analyse und Planung, sowie ersten Entwürfen. 
+
+include::vision.adoc[]
+
+
+include::stakeholder.adoc[]
+
+
+include::glossary.adoc[]
+
+
+include::use_cases.adoc[]
+

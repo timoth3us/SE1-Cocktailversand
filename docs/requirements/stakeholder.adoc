@@ -1,5 +1,4 @@
 = Stakeholder
-Doc Writer <William Elsner, Leon Mathes, Tim Grünert>
 
 == Was sind mögliche Stakeholder und deren Interessen?
 
