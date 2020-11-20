@@ -1,0 +1,18 @@
+Use-Case-Name:Ressourcen bereitstellen
+Umfang: / 
+Ebene: / 
+Primärakteur: Server
+Stakeholder und Interessen:
+• Kunde 
+• Barchef
+
+Vorbedingungen: /
+Erfolgsgarantie, auch Nachbedingungen: /
+Standardablauf:
+1. Website bereitstellen
+2. Verwaltung und Speicherung der DB 
+Erweiterungen (oder alternative Abläufe): /
+Spezielle Anforderungen: /
+Liste der Technik- und Datenvariationen: /
+Häufigkeit des Auftretens: immer 
+Verschiedenes: / 
